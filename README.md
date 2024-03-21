@@ -24,8 +24,8 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ## Installation 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/KiranRoss1999/Professional-Portfolio.git`
-2. Navigate to the project's directory: `cd Professional-Portfolio`
+1. Clone the repository: `git clone https://github.com/KiranRoss1999/Employee-Payroll-Tracker.git`
+2. Navigate to the project's directory: `cd Payroll Tracker`
 3. Open the index.html file in your browser.
 
 ## Mock-Up
